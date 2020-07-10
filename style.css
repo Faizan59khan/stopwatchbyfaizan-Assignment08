@@ -1,0 +1,45 @@
+body{
+  
+    text-align: center;
+    background-image: url(time-3085468_1920.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    
+}
+
+.heading{
+    padding: 6px;
+}
+
+ h2{
+    margin-top: 2cm;
+    background-color: #fff;
+    font-size: 60px;
+    padding: 10px;
+    border: solid 0.3px black;
+    width: 100%;
+}
+h1{
+    border: solid black 0.5px;
+    color: black;
+    display: inline-block;
+    width: 100px;
+    background-color: #fff;
+    padding: 2px;
+}
+.butDiv{
+    padding: 7px;
+}
+
+.butDiv button{
+padding: 8px;
+margin: 2px;
+background-color: #fff;
+width: 1.8cm;
+height: 1.5cm;
+border-radius: 30px;
+border: 0.3px black solid;
+
+}
+
